@@ -6,4 +6,4 @@ The guard opens their mouth to protest but noting your grim demeanour and the bl
 
 "I'd be doing you a favour if I did stop you." he calls after you "There's nothing but death in the city now".
 
-You pass through the gatehouse and enter the main square.
+You pass through the gatehouse and enter [the main square](/main-square).
