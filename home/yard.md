@@ -7,3 +7,5 @@ The fence and gate are in poor repair but are still present. You look over the f
 You open the gate and enter. Everything is in good order, firewood stacked, the sheds have not been disturbed, the windows of the house are shuttered but there is no warning painted on it.
 
 You feel you are the only living thing here. The thought is painful.
+
+* [Enter the house](/home/inside)
