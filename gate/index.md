@@ -7,5 +7,5 @@ They watch you approach with suspicion.
 Do you:
 
 * [Ignore the guard](ignore-guard)
-* Bribe the guard
+* [Bribe the guard](bribe-guard)
 * Talk to the guard
