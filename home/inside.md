@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Returning home
 
@@ -15,4 +18,4 @@ Clothes, food and utensils have been taken.
 
  You drop your weapons and pack on the floor and free of their heavy burden you feel a jolt of fatigue. You close your eyes and cannot open them again. Your body sags under its own weight. When your head falls against the blanket you can smell familiar scents. There are many things you should do but sleep steals over you and darkness descends.
 
- You are home.
+ **You are home.**

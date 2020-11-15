@@ -1,3 +1,8 @@
+---
+layout: default
+
+title: Near your home
+---
 
 # On the threshold
 

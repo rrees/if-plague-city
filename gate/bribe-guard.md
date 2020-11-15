@@ -1,3 +1,8 @@
+---
+layout: default
+
+title: Bribing the guard
+---
 
 # The Gatehouse
 

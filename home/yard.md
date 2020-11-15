@@ -1,3 +1,8 @@
+---
+layout: default
+title: The yard
+---
+
 # Home
 
 You arrive at your house. It is quiet, there is no sign of life within nor any in the houses of your neighbours.

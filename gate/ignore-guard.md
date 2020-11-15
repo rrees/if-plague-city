@@ -1,3 +1,9 @@
+---
+layout: default
+
+title: Ignoring the guard
+---
+
 # Entering the city
 
 You walk up to the gate, matching the guard's stare. You can see the gate is open and you walk through.
