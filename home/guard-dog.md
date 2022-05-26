@@ -1,5 +1,7 @@
 ---
 layout: default
+
+title: No barking only silence
 ---
 
 # Silence
